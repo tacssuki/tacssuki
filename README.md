@@ -1,4 +1,4 @@
-<h3 align="center">A passioante IT/CS Student and Aspiring Full Stack Developer Specializing in MEAN/MERN Stack - Living in Manila, Philippines</h3>
+<h3 align="center">A passionate IT/CS Student and Aspiring Full Stack Developer Specializing in MEAN/MERN Stack - Living in Manila, Philippines</h3>
 
 - 🌱 I’m currently learning **JS Frameworks, Flutter, Dart and More!**
 
