@@ -1,6 +1,8 @@
-<h3 align="center">A passioante IT/CS Student and Aspiring Full Stack Developer Specializing in MEAN/MERN Stack, TypeScript, Python, Java, C, C#, C++, and PHP - Live in Manila, Philippines</h3>
+<h3 align="center">A passioante IT/CS Student and Aspiring Full Stack Developer Specializing in MEAN/MERN Stack - Living in Manila, Philippines</h3>
 
 - 🌱 I’m currently learning **JS Frameworks, Flutter, Dart and More!**
+
+- 👨‍💻 All of my projects are available at [SOON](SOON)
 
 - 💬 Ask me about **MEAN/MERN Stack Development**
 
@@ -9,6 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/tacssuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tacssuki" height="30" width="40" /></a>
+<a href="https://instagram.com/tacssuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tacssuki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
